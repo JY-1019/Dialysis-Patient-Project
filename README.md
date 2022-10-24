@@ -19,4 +19,5 @@
 
 ## 결론
 핵심 보건소 기반 혈액 투석 환자 네트워크 관리 시스템 제안 
+
 <img width="451" alt="image" src="https://user-images.githubusercontent.com/76830616/197581298-14d739e3-5f4e-4842-9362-49a04c66e74f.png">
